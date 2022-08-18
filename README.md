@@ -12,7 +12,6 @@ Roman Battisti
 Alex Douglass
 Maria Kuruvilla
 Carla Peterson
-Anthony Lukach
 
 ## Background
 
@@ -23,13 +22,13 @@ USER: wants to know where available passive acoustic data from:
 
 1. a geographic area (radius or box) at some point (or range) in time (min - max)
 2. frequeny
-	- range
-	- sample rate
+    - range
+    - sample rate
 3. depth
-	- water channel
-	- source
-4. has / doesn't have data (#4)
-	- strict / not strict (boolean)
+    - water channel
+    - source
+4. has / doesn't have data
+    - strict / not strict (boolean)
 
 
 For future:
@@ -37,9 +36,9 @@ For future:
 
 ## Datasets
 Starting datasets will be: 
-	- Ocean Observatories Initative (OOI)
-	- National Centers for Environmental Information (NCEI)
-	- Ocean Networks Canada (OCN)
+- Ocean Observatories Initative (OOI)
+- National Centers for Environmental Information (NCEI)
+- Ocean Networks Canada (OCN)
 
 
 ## Workflow
@@ -48,8 +47,8 @@ Starting datasets will be:
 
 ## References
 
-https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
-https://service.iris.edu/
-https://wiki.oceannetworks.ca/display/O2A/properties+Discovery+Service
+- https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation
+- https://service.iris.edu/
+- https://wiki.oceannetworks.ca/display/O2A/properties+Discovery+Service
 
 
